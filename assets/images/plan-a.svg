@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 110" fill="none">
+<!-- outer wall -->
+<rect x="0.7" y="0.7" width="98.6" height="108.6" stroke="#A9641F" stroke-width="1.1"/>
+
+<!-- GREAT ROOM (rear) -->
+<rect x="0.7" y="0.7" width="98.6" height="40" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="50.0" y="18.5" font-family="Jost, Arial, sans-serif" font-size="3" letter-spacing="0.32" fill="#16150F" opacity="0.65" text-anchor="middle">GREAT ROOM</text>
+<!-- rear walkout door -->
+<path d="M71 0.7 L71 8.1 A7.4 7.4 0 0 0 78.4 0.7" stroke="#A9641F" stroke-width="0.4" opacity="0.55"/>
+<line x1="71" y1="0.7" x2="71" y2="8.1" stroke="#A9641F" stroke-width="0.4" opacity="0.55"/>
+
+<!-- KITCHEN / DINING (open to great room) -->
+<rect x="0.7" y="40.7" width="52" height="26" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="26.7" y="55.5" font-family="Jost, Arial, sans-serif" font-size="2.9" letter-spacing="0.32" fill="#16150F" opacity="0.65" text-anchor="middle">KITCHEN</text>
+<rect x="52.7" y="40.7" width="46.6" height="26" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="76.0" y="55.5" font-family="Jost, Arial, sans-serif" font-size="2.9" letter-spacing="0.32" fill="#16150F" opacity="0.65" text-anchor="middle">DINING</text>
+
+<!-- FOYER with coat closet -->
+<rect x="0.7" y="66.7" width="21.3" height="42.6" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="11.3" y="102" font-family="Jost, Arial, sans-serif" font-size="2.7" letter-spacing="0.28" fill="#16150F" opacity="0.65" text-anchor="middle">FOYER</text>
+<rect x="2.3" y="68.3" width="7" height="9" stroke="#A9641F" stroke-width="0.35" opacity="0.4"/>
+<line x1="2.3" y1="68.3" x2="9.3" y2="77.3" stroke="#A9641F" stroke-width="0.3" opacity="0.35"/>
+<!-- front door -->
+<path d="M7 109.3 L7 100.9 A8.4 8.4 0 0 1 15.4 109.3" stroke="#A9641F" stroke-width="0.4" opacity="0.55"/>
+<line x1="7" y1="109.3" x2="7" y2="100.9" stroke="#A9641F" stroke-width="0.4" opacity="0.55"/>
+
+<!-- STAIRS -->
+<rect x="22.7" y="66.7" width="17" height="42.6" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="31.2" y="73.5" font-family="Jost, Arial, sans-serif" font-size="2.2" letter-spacing="0.2" fill="#16150F" opacity="0.6" text-anchor="middle">UP</text>
+<g stroke="#A9641F" stroke-width="0.35" opacity="0.45">
+<line x1="24.2" y1="78" x2="37.5" y2="78"/>
+<line x1="24.2" y1="82.4" x2="37.5" y2="82.4"/>
+<line x1="24.2" y1="86.8" x2="37.5" y2="86.8"/>
+<line x1="24.2" y1="91.2" x2="37.5" y2="91.2"/>
+<line x1="24.2" y1="95.6" x2="37.5" y2="95.6"/>
+<line x1="24.2" y1="100" x2="37.5" y2="100"/>
+<line x1="24.2" y1="104.4" x2="37.5" y2="104.4"/>
+</g>
+<path d="M31.2 76 L28.5 79 L33.9 79 Z" fill="#A9641F" opacity="0.5"/>
+
+<!-- POWDER -->
+<rect x="40.7" y="66.7" width="12" height="42.6" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="46.7" y="88.5" font-family="Jost, Arial, sans-serif" font-size="2.3" letter-spacing="0.2" fill="#16150F" opacity="0.6" text-anchor="middle" transform="rotate(-90 46.7 88.5)">POWDER</text>
+
+<!-- 1-CAR GARAGE -->
+<rect x="53.7" y="66.7" width="45.6" height="42.6" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="76.5" y="90" font-family="Jost, Arial, sans-serif" font-size="2.8" letter-spacing="0.28" fill="#16150F" opacity="0.65" text-anchor="middle">1-CAR GARAGE</text>
+<!-- garage-to-hall door -->
+<path d="M52.7 92 L59.7 92 A7 7 0 0 1 52.7 99" stroke="#A9641F" stroke-width="0.4" opacity="0.5"/>
+<line x1="52.7" y1="92" x2="59.7" y2="92" stroke="#A9641F" stroke-width="0.4" opacity="0.5"/>
+
+<!-- F.P.O. watermark — schematic is for placement only -->
+<g transform="rotate(-24 50 55)">
+<rect x="-8" y="49" width="116" height="13" fill="#8C2A20" opacity="0.86"/>
+<text x="50" y="58.2" font-family="Jost, Arial, sans-serif" font-size="7.4" font-weight="500" letter-spacing="0.3" fill="#FBF8F3" text-anchor="middle">F.P.O.</text>
+</g>
+<text x="50" y="107" font-family="Jost, Arial, sans-serif" font-size="2.3" letter-spacing="0.22" fill="#8C2A20" opacity="0.85" text-anchor="middle">FOR PLACEMENT ONLY — NOT TO SCALE</text>
+</svg>

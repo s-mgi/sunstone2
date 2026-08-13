@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 110" fill="none">
+<rect x="0.7" y="0.7" width="98.6" height="108.6" stroke="#A9641F" stroke-width="1.1"/>
+
+<!-- GREAT ROOM + KITCHEN/DINING (rear, open concept) -->
+<rect x="0.7" y="0.7" width="46" height="30" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="23.7" y="18" font-family="Jost, Arial, sans-serif" font-size="2.8" letter-spacing="0.3" fill="#16150F" opacity="0.65" text-anchor="middle">GREAT ROOM</text>
+<path d="M15 0.7 L15 7.4 A6.7 6.7 0 0 0 21.7 0.7" stroke="#A9641F" stroke-width="0.4" opacity="0.55"/>
+<line x1="15" y1="0.7" x2="15" y2="7.4" stroke="#A9641F" stroke-width="0.4" opacity="0.55"/>
+
+<rect x="46.7" y="0.7" width="52.6" height="30" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="73.0" y="18" font-family="Jost, Arial, sans-serif" font-size="2.3" letter-spacing="0.28" fill="#16150F" opacity="0.65" text-anchor="middle">KITCHEN / DINING</text>
+
+<!-- OFFICE / PANTRY / W.C. -->
+<rect x="0.7" y="30.7" width="42" height="21" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="21.7" y="42.7" font-family="Jost, Arial, sans-serif" font-size="2.6" letter-spacing="0.26" fill="#16150F" opacity="0.65" text-anchor="middle">OFFICE</text>
+
+<rect x="42.7" y="30.7" width="26" height="21" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="55.7" y="41" font-family="Jost, Arial, sans-serif" font-size="2.2" letter-spacing="0.18" fill="#16150F" opacity="0.6" text-anchor="middle">PANTRY</text>
+
+<rect x="68.7" y="30.7" width="30.6" height="21" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="84.0" y="41" font-family="Jost, Arial, sans-serif" font-size="2.4" letter-spacing="0.2" fill="#16150F" opacity="0.6" text-anchor="middle">W/C</text>
+
+<!-- MUDROOM / COVERED PORCH -->
+<rect x="0.7" y="51.7" width="30.6" height="24.6" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="16.0" y="65" font-family="Jost, Arial, sans-serif" font-size="2.1" letter-spacing="0.14" fill="#16150F" opacity="0.6" text-anchor="middle">MUDROOM</text>
+
+<rect x="31.3" y="51.7" width="68" height="24.6" stroke-dasharray="1.6 1.4" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="65.3" y="65" font-family="Jost, Arial, sans-serif" font-size="2.3" letter-spacing="0.2" fill="#16150F" opacity="0.6" text-anchor="middle">COVERED PORCH</text>
+<!-- mudroom to porch opening -->
+<line x1="31.3" y1="60" x2="31.3" y2="68" stroke="#FBF8F3" stroke-width="0.9"/>
+
+<!-- FOYER -->
+<rect x="0.7" y="76.3" width="26.6" height="33" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="14.0" y="95" font-family="Jost, Arial, sans-serif" font-size="2.6" letter-spacing="0.24" fill="#16150F" opacity="0.65" text-anchor="middle">FOYER</text>
+<rect x="2.3" y="78" width="7" height="9" stroke="#A9641F" stroke-width="0.35" opacity="0.4"/>
+<line x1="2.3" y1="78" x2="9.3" y2="87" stroke="#A9641F" stroke-width="0.3" opacity="0.35"/>
+<path d="M14 109.3 L14 100.9 A8.4 8.4 0 0 1 22.4 109.3" stroke="#A9641F" stroke-width="0.4" opacity="0.55"/>
+<line x1="14" y1="109.3" x2="14" y2="100.9" stroke="#A9641F" stroke-width="0.4" opacity="0.55"/>
+
+<!-- STAIRS -->
+<rect x="27.3" y="76.3" width="18" height="33" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="36.3" y="83.5" font-family="Jost, Arial, sans-serif" font-size="2.2" letter-spacing="0.2" fill="#16150F" opacity="0.6" text-anchor="middle">UP</text>
+<g stroke="#A9641F" stroke-width="0.35" opacity="0.45">
+<line x1="28.8" y1="88" x2="43.8" y2="88"/>
+<line x1="28.8" y1="92" x2="43.8" y2="92"/>
+<line x1="28.8" y1="96" x2="43.8" y2="96"/>
+<line x1="28.8" y1="100" x2="43.8" y2="100"/>
+<line x1="28.8" y1="104" x2="43.8" y2="104"/>
+</g>
+<path d="M36.3 86 L33.6 89 L39 89 Z" fill="#A9641F" opacity="0.5"/>
+
+<!-- 2-CAR GARAGE -->
+<rect x="45.3" y="76.3" width="54" height="33" stroke="#A9641F" stroke-width="0.45" opacity="0.5"/>
+<text x="72.3" y="95" font-family="Jost, Arial, sans-serif" font-size="2.7" letter-spacing="0.24" fill="#16150F" opacity="0.65" text-anchor="middle">2-CAR GARAGE</text>
+<path d="M44.3 96 L38.3 96 A6 6 0 0 0 44.3 102" stroke="#A9641F" stroke-width="0.4" opacity="0.5"/>
+<line x1="44.3" y1="96" x2="38.3" y2="96" stroke="#A9641F" stroke-width="0.4" opacity="0.5"/>
+
+<!-- F.P.O. watermark — schematic is for placement only -->
+<g transform="rotate(-24 50 55)">
+<rect x="-8" y="49" width="116" height="13" fill="#8C2A20" opacity="0.86"/>
+<text x="50" y="58.2" font-family="Jost, Arial, sans-serif" font-size="7.4" font-weight="500" letter-spacing="0.3" fill="#FBF8F3" text-anchor="middle">F.P.O.</text>
+</g>
+<text x="50" y="107" font-family="Jost, Arial, sans-serif" font-size="2.3" letter-spacing="0.22" fill="#8C2A20" opacity="0.85" text-anchor="middle">FOR PLACEMENT ONLY — NOT TO SCALE</text>
+</svg>
